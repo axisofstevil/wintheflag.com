@@ -1,0 +1,11 @@
+title: Win the Flag!
+email: stevenmaguire@gmail.com
+description: >
+  A capture the flag mobile gaming experience coming to iOS and Android in 2017.
+baseurl: ""
+url: "https://www.wintheflag.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
